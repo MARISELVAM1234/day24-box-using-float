@@ -1,0 +1,38 @@
+.box1{
+    height: 500px;
+    float: left;
+    width: 50%;
+    Background-color: red;
+}
+.box1 h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    transform: translateY(140px)
+}
+.box2{
+    height: 500px;
+    float: right;
+    width: 50%;
+    Background-color: green;
+}
+.box2 h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    transform: translateY(140px)
+}
+.clear{
+    clear: both;
+}
+.box3{
+    height: 120px;
+    width: 100%;
+    Background-color: black; 
+}
+.box3 h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    transform: translateY(20px)
+}
